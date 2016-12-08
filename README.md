@@ -1,3 +1,10 @@
+To see the app running in product:
+
+  ```shell
+    https://benzinga-cc.herokuapp.com/
+  ```
+
+
 To get started:
 
 1. Make sure you have Node installed.
