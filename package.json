@@ -1,5 +1,5 @@
 {
-  "name": "benzinga challenge",
+  "name": "benzinga-challenge",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
